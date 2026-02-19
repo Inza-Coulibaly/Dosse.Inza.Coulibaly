@@ -1,6 +1,6 @@
 # 👋 Bienvenue sur mon portfolio – Dosse Inza COULIBALY
 
-[https://github.com/Inza-Coulibaly/Dosse.Inza.Coulibaly/main/images/banniere.png](https://github.com/Inza-Coulibaly/Dosse.Inza.Coulibaly/main/images/banniere.png)
+[banniere.png](https://github.com/Inza-Coulibaly/Dosse.Inza.Coulibaly/main/images/banniere.png)
 
 ## 🎯 Data Scientist & Data Analyst/ Analyste Quantitatif en devenir
 
