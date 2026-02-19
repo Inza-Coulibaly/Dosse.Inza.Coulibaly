@@ -1,6 +1,6 @@
 # 👋 Bienvenue sur mon portfolio GitHub – Dosse Inza COULIBALY
 
-![Bannière](images/ChatGPT Image 19 févr. 2026, 05_40_37.png)  
+![Bannière](images/banniere.png)  
 *N'hésite pas à ajouter ici une bannière ou une photo de toi*
 
 ## 🎯 Data Scientist & Analyste quantitatif en devenir
