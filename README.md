@@ -1,9 +1,9 @@
-# 👋 Bienvenue sur mon portfolio GitHub – Dosse Inza COULIBALY
+# 👋 Bienvenue sur mon portfolio – Dosse Inza COULIBALY
 
-![Bannière Dosse Inza COULIBALY](images/bannier_2.png)  
+![Bannière Dosse Inza COULIBALY](images/ChatGPT Image 19 févr. 2026, 05_36_32.png)  
 *N'hésite pas à ajouter ici une bannière ou une photo de toi*
 
-## 🎯 Data Scientist & Analyste quantitatif en devenir
+## 🎯 Data Scientist & Data Analyst/ Analyste Quantitatif en devenir
 
 Étudiant en **3ᵉ année de BUT Science des Données** (parcours Exploration et Modélisation Statistique), je suis passionné par l'analyse de données, la Business Intelligence et le Machine Learning.  
 Je recherche un **stage de fin d'études (3 mois)** à partir de **Mars/Avril 2026** en tant que **Data Analyst** ou **Data Scientist**.
