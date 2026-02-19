@@ -85,8 +85,8 @@ J’ai eu l’opportunité de travailler sur des missions variées en entreprise
 <img src="images/photo-profil.jpg" alt="Photo de Dosse Inza COULIBALY" width="150" align="right"/>
 
 - **LinkedIn** : [linkedin.com/in/dosse-inza-coulibaly](https://linkedin.com/in/dosse-inza-coulibaly)  
-- **Email** : [ton.email@example.com](mailto:ton.email@example.com)  
-- **Téléphone** : +33 X XX XX XX XX  
+- **Email** : [ton.email@example.com](mailto:inzcoul382@gmail.com)  
+- **Téléphone** : +33 7 59 19 79 36
 - **Portfolio** : [tonportfolio.com](https://tonportfolio.com) *(si disponible)*
 
 ---
