@@ -30,39 +30,35 @@ J’ai eu l’opportunité de travailler sur des missions variées en entreprise
 **Description** : Exploration et analyse des performances commerciales d’un réseau de magasins à partir de données de ventes. Nettoyage, visualisation et identification des tendances clés pour aider à la prise de décision.  
 **Stack** : Python (pandas, matplotlib, seaborn), Jupyter Notebook  
 📊 *Ajoute ici une capture d’écran de graphiques ou de tableau de bord*  
-🔗 [Voir le dépôt](https://github.com/TON_PSEUDO/Analyse-des-ventes-d-un-r-seau-de-magasins)
+🔗 [Voir le dépôt](https://github.com/Inza-Coulibaly/Analyse-des-ventes-d-un-r-seau-de-magasins)
 
 ---
 
 ### 2️⃣ Migration SQL vers NoSQL  
 **Description** : Conception et mise en œuvre d’une migration de bases de données relationnelles (PostgreSQL) vers une base NoSQL (MongoDB). Scripts de transformation, optimisation des requêtes et validation de la cohérence des données.  
 **Stack** : PostgreSQL, MongoDB, Python (pymongo), PL/pgSQL  
-📊 *Ajoute un schéma ou une capture du processus de migration*  
-🔗 [Voir le dépôt](https://github.com/TON_PSEUDO/Projet-Migration-SQL-vers-NOSQL-)
+🔗 [Voir le dépôt](https://github.com/Inza-Coulibaly/Projet-Migration-SQL-vers-NOSQL-)
 
 ---
 
 ### 3️⃣ Tableau de bord financier (projet privé)  
 **Description** : Création d’un dashboard interactif pour le suivi des indicateurs financiers d’une entreprise. Réalisé lors de mon stage chez Atlantic Group. L’application permet de visualiser en temps réel les KPIs de gestion de caisse et de pilotage financier.  
 **Stack** : Power BI, Power Apps, Power Automate, Excel  
-📊 *Ajoute une capture d’écran du dashboard (anonymisée si nécessaire)*  
-🔗 *Projet privé – disponible sur demande*
+🔗 *Projet privé – encours de production
 
 ---
 
 ### 4️⃣ Mon contenu – Ressources pédagogiques  
 **Description** : Compilation de fiches de révision, tutoriels et notebooks sur la data science, les statistiques et les outils BI. Destiné à partager mes apprentissages et aider d’autres étudiants.  
 **Stack** : Markdown, Python, R, SQL  
-📊 *Capture d’une page ou d’un extrait de contenu*  
-🔗 [Voir le dépôt](https://github.com/TON_PSEUDO/Mon-contenu)
+🔗 [Voir le dépôt](https://github.com/Inza-Coulibaly/Mon-contenu)
 
 ---
 
 ### 5️⃣ Projet Data Mining  
 **Description** : Application de techniques de data mining (classification, clustering, régression) sur un jeu de données réel. Comparaison des modèles, évaluation des performances et interprétation des résultats.  
 **Stack** : Python (scikit-learn, pandas), R, Jupyter Notebook  
-📊 *Ajoute un graphique de performance ou une matrice de confusion*  
-🔗 [Voir le dépôt](https://github.com/TON_PSEUDO/Projet_Data_Maning)
+🔗 [Voir le dépôt](https://github.com/Inza-Coulibaly/Projet_Data_Maning)
 
 ---
 
@@ -79,8 +75,8 @@ J’ai eu l’opportunité de travailler sur des missions variées en entreprise
 
 ## 📊 Statistiques GitHub
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=dark)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Inza-Coulibaly&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inza-Coulibaly&layout=compact&theme=dark)
 
 ---
 
