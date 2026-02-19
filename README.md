@@ -1,6 +1,6 @@
 # 👋 Bienvenue sur mon portfolio – Dosse Inza COULIBALY
 
-![Bannière Dosse Inza COULIBALY](images/ChatGPT Image 19 févr. 2026, 05_36_32.png)  
+![Bannière Dosse Inza COULIBALY](images/banniere.png)
 *N'hésite pas à ajouter ici une bannière ou une photo de toi*
 
 ## 🎯 Data Scientist & Data Analyst/ Analyste Quantitatif en devenir
