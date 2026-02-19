@@ -1,6 +1,6 @@
 # 👋 Bienvenue sur mon portfolio GitHub – Dosse Inza COULIBALY
 
-![Bannière](images/banniere.png)  
+![Bannière](images/bannier_2.png)  
 *N'hésite pas à ajouter ici une bannière ou une photo de toi*
 
 ## 🎯 Data Scientist & Analyste quantitatif en devenir
