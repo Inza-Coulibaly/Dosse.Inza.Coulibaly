@@ -1,11 +1,9 @@
 # 👋 Bienvenue sur mon portfolio – Dosse Inza COULIBALY
 
-![Bannière Dosse Inza COULIBALY](https://raw.githubusercontent.com/Inza-Coulibaly/Dosse.Inza.Coulibaly/principal/images/banniere.png)
-
 ## 🎯 Data Scientist & Data Analyst/ Analyste Quantitatif en devenir
 
-Étudiant en **3ᵉ année de BUT Science des Données** (parcours Exploration et Modélisation Statistique), je suis passionné par l'analyse de données, la Business Intelligence et le Machine Learning.  
-Je recherche un **stage de fin d'études (3 mois)** à partir de **Mars/Avril 2026** en tant que **Data Analyst** ou **Data Scientist**.
+Étudiant en **Matser Data & IA** , je suis passionné par l'analyse de données, la Business Intelligence et le Machine Learning.  
+Je recherche une alternance **en data et IA** à partir de **Septembre 2026** en tant que **Data Analyst** ou **Data Scientist**.
 
 J’ai eu l’opportunité de travailler sur des missions variées en entreprise : **automatisation de reporting financier, analyse de crédit, gestion de bases de données d'enquête**, avec un fort accent sur l’aide à la décision.
 
